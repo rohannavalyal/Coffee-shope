@@ -57,19 +57,25 @@ dependencies {
     implementation("com.google.firebase:firebase-storage")
 }
 ```
-5️⃣ Sync and Build Project
+---
+
+### 5️⃣ Sync and Build Project
 Click "Sync Now" in Android Studio when prompted
 
 Run a build to verify that Firebase is properly integrated
 
-6️⃣ Enable Authentication (Optional)
+---
+
+### 6️⃣ Enable Authentication (Optional)
 Navigate to Authentication in Firebase Console
 
 Click "Get Started"
 
 Enable your preferred sign-in methods (e.g., Email/Password, Google)
 
-7️⃣ Set Up Firestore (Optional)
+---
+
+### 7️⃣ Set Up Firestore (Optional)
 Go to Firestore Database in the console
 
 Click "Create Database"
@@ -80,7 +86,9 @@ Choose your region
 
 Click "Enable"
 
-8️⃣ Set Up Firebase Storage (Optional)
+---
+
+### 8️⃣ Set Up Firebase Storage (Optional)
 Open the Storage section in Firebase Console
 
 Click "Get Started"
@@ -90,6 +98,8 @@ Choose test mode for development
 Select your region
 
 Click "Done"
+
+---
 
 📌 Additional Notes
 ❗ Do not commit google-services.json to public repositories
