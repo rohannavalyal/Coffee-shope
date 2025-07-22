@@ -102,10 +102,3 @@ Click "Done"
 Coffee-Hub is designed to enhance the user experience for coffee lovers by combining rich UI, Firebase-powered backend, and real-time features for order tracking, authentication, and storage.
 
 Happy Brewing! ☕🚀
-
----
-
-Let me know if you'd like to add:
-- Firebase Hosting / Functions instructions
-- CI/CD setup
-- Screenshots or app demo sections
