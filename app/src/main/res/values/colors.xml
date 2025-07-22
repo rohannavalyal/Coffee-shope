@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6600</color>
+    <color name="colorPrimaryDark">#CC5200</color>
+    <color name="colorAccent">#FF6600</color>
+    <color name="background">#181A20</color>
+    <color name="cardBackground">#23262F</color>
+    <color name="inputBackground">#23262F</color>
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#B0B3B8</color>
+    <color name="divider">#333843</color>
+</resources>
